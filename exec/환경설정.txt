@@ -9,14 +9,25 @@ ssafy_S205
 heeyeon807@gmail.com
 ssafy_S205
 --------
+IM계정 로그인 URL
+https://992382698264.signin.aws.amazon.com/console
+--------
 고수림 IM 계정
 계정ID :992382698264
 사용자 이름: sulim
 PWD: fO88$|&k
-
-IM계정 로그인 URL
-https://992382698264.signin.aws.amazon.com/console
 --------
+권송아 IM 계정
+계정ID :992382698264
+사용자 이름: songah
+PWD: 3q(U4_0'
+--------
+송윤재 IM 계정
+계정ID :992382698264
+사용자 이름: yoonjae
+PWD: MpneV79}
+--------
+
 Python 3.12 | 3.8
 Java 17
 Node.js 18.x
